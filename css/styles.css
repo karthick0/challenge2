@@ -1,0 +1,186 @@
+body{
+  text-align: center;
+  font-family: 'Open Sans-Bold', sans-serif;
+  font-size: 11px;
+  margin-bottom: 0px;
+}
+.container-fluid{
+  padding: 5% 10%;
+}
+
+.color-background{
+  background-color: #F5FAFF;
+}
+h1{
+  font-weight: 900;
+}
+/* ..........................navbar.......... */
+
+#title .container-fluid{
+  padding: 3% 5%;
+}
+.navbar{
+  margin: 2% 1%;
+}
+.button-color{
+  border-color: #F00098;
+  color: white;
+  background-color: #F00098;
+}
+.top-button{
+  border-color: #F00098;
+  color: #F00098;;
+  border-radius: 20px;
+  padding: 5px 22px;
+}
+
+
+/* Community */
+
+.community{
+  margin: 8% 0px;
+}
+.community-desc{
+  font-size: 1.2rem;
+  margin: 2.5% 0%;
+  padding: 0% 26%;
+}
+.button2{
+  margin: 2% 0%;
+  border-radius: 50px;
+  font-size: 1rem;
+  padding: 2% 2%;
+  width: 30%;
+  box-shadow: 0 0.875rem 0.875rem rgb(56 41 224 / 20%);
+}
+
+.community-image{
+  padding: 4% 2%;
+  margin: 0% 0%;
+}
+
+.community-row{
+  margin: 2% 0%;
+  text-align: left;
+  font-size: 1rem;
+  padding-left: 16%;
+}
+
+.views-count{
+  font-size: 5rem;
+  font-weight: 700;
+}
+
+.row-items{
+  font-size: 1.25rem;
+}
+
+
+/* ................................GROW */
+.bg-image{
+  width: 100%;
+}
+.color-background-image{
+  width: 90%;
+}
+.grow-row{
+  margin-top: 12%;
+  text-align: left;
+}
+.color-background-text{
+  font-size: 0.9rem;
+  margin: 3% 0%;
+  padding-right: 18%;
+}
+
+
+/* ................................Flow */
+.flow-row{
+  margin: 10% 0%;
+  text-align: left;
+  padding-left: 5%;
+}
+.flow-desc
+{
+  font-size: 0.9rem;
+  margin: 5% 0%;
+  padding-right: 18%;
+}
+
+
+/* .........................................User */
+.user-row{
+  margin: 10% 0%;
+  text-align: left;
+}
+.build-desc{
+  margin: 2% 0%;
+}
+
+
+/* ...............................Bottom */
+
+#bottom .container-fluid{
+  padding: 2% 6%;
+}
+.bottom-bgimage{
+  margin-top: 5rem;
+  width: 100%;
+}
+
+.bottom-background{
+  background-color: #00252E;
+  color: white;
+}
+
+.bottom-logo{
+ height: auto;
+ filter: brightness(0) invert(1);
+ text-align: left;
+ margin: 2% 0%;
+}
+.bottom-row{
+  text-align: left;
+  margin: 8% 2%;
+  font-size: 1rem;
+}
+
+.bottom-desc{
+  width: 55%;
+  font-size: 0.90rem;
+}
+.bottom-img{
+  padding-right: 1rem;
+  margin: 2% 0%;
+}
+.bottom-heading{
+  margin-top: 2%;
+}
+.bottom-paragraph{
+  padding-left: 5rem;
+  font-family: 'Open Sans', sans-serif;
+}
+.bot-desc{
+  width: 70%;
+  margin: 4% 0%;
+  font-size: 0.90rem;
+}
+
+.button3{
+  font-size: 0.90rem;
+  border-radius: 4px;
+  margin: 0% 3.5%;
+  padding: 2% 6%;
+}
+
+#text{
+  border-radius: 4px;
+  border-color: #fff;
+  padding: 1.5% 2%;
+  margin-right: 1rem;
+  width: 60%;
+}
+.fab{
+  font-size: 2rem;
+  padding: 1rem;
+}
